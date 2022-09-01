@@ -1,1 +1,1 @@
-module.exports = require('./fortune-cookie.json')
+module.exports = require('./fortune-cookies.json');
