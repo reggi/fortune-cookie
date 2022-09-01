@@ -22,7 +22,6 @@
 * Your power is in your ability to decide.
 * Wherever you go, whenever you can, try to leave a gift.
 * Kind words can be shot and easy to speak, but their echoes are truly endless.
-* Your ingenuity and imagination will get results.
 * Age can never hope to with you while your heart is young.
 * Example is better than perception.
 * Idleness is the holiday of fools.
@@ -81,10 +80,7 @@
 * You are going to take a vacation.
 * Commitment is the stuff character is made of; the power to change the face of things.
 * A friend asks only for your time not your money.
-* A friend asks only for your time not your money.
 * A handful of patience is worth more than a bushel of brains.
-* A handful of patience is worth more than a bushel of brains.
-* To be eighty years young is more cheerful and hopeful than forty years old.
 * To be eighty years young is more cheerful and hopeful than forty years old.
 * A person is not wise simply because one talks a lot.
 * It takes guts to get out of the ruts.
@@ -108,7 +104,6 @@
 * Maturity: Do your duty without being supervised.
 * Your cheerful outlook is one of your assets.
 * You can't have everything... where would you put it all?
-* You have an unusually magnetic personality.
 * You have an unusually magnetic personality.
 * He who hurries cannot walk with dignity.
 * You never hesitate to tackle the most difficult problems.
@@ -226,7 +221,6 @@
 * Say hello to others. You will have a happier day.
 * Don't let your limitations overshadow your talents.
 * Love is the affinity which links and draws together the elements of the world.
-* You should be able to undertake and complete anything.
 * Character development is the true aim  of education.
 * Trust him, but sill keep your eyes open.
 * He who is shipwrecked the second time cannot lay the blame on Neptune.
@@ -248,3 +242,7 @@
 * If at first you do not succeed... try something harder.
 * Your good listening skills will open many doors.
 * Two people shorten a road.
+* Stop waiting! Buy that ticket take that special trip!
+* A problem clearly stated is a problem half solved.
+* Accept your independence and use it wisely.
+* May the warm winds of heaven blow softly upon your sprint.
